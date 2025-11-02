@@ -1,0 +1,295 @@
+{
+  "seaState": {
+    "calm": {
+      "windSpeed": 0.05,
+      "waves": [
+        {
+          "steepness": 0.0,
+          "wavelength": 1.0,
+          "direction": [1, 0]
+        },
+        {
+          "steepness": 0.0,
+          "wavelength": 1.0,
+          "direction": [1, 0]
+        },
+        {
+          "steepness": 0.0,
+          "wavelength": 1.0,
+          "direction": [1, 0]
+        }
+      ],
+      "useNormals": false
+    },
+    "light air": {
+      "windSpeed": 0.15,
+      "waves": [
+        {
+          "steepness": 0.04,
+          "wavelength": 12.0,
+          "direction": [1, 0]
+        },
+        {
+          "steepness": 0.04,
+          "wavelength": 12.0,
+          "direction": [0, 1]
+        },
+        {
+          "steepness": 0.04,
+          "wavelength": 12.0,
+          "direction": [1, 1]
+        }
+      ],
+      "useNormals": true
+    },
+    "light breeze": {
+      "windSpeed": 0.25,
+      "waves": [
+        {
+          "steepness": 0.07,
+          "wavelength": 15.0,
+          "direction": [1, -0.5]
+        },
+        {
+          "steepness": 0.05,
+          "wavelength": 10.0,
+          "direction": [0, 1]
+        },
+        {
+          "steepness": 0.07,
+          "wavelength": 15.0,
+          "direction": [-1, 1]
+        }
+      ],
+      "useNormals": true
+    },
+    "gentle breeze": {
+      "windSpeed": 0.35,
+      "waves": [
+        {
+          "steepness": 0.1,
+          "wavelength": 16.0,
+          "direction": [1, -0.5]
+        },
+        {
+          "steepness": 0.07,
+          "wavelength": 12.0,
+          "direction": [0, 1]
+        },
+        {
+          "steepness": 0.1,
+          "wavelength": 17.0,
+          "direction": [-1, 1]
+        }
+      ],
+      "useNormals": true
+    },
+    "moderate breeze": {
+      "windSpeed": 0.45,
+      "waves": [
+        {
+          "steepness": 0.12,
+          "wavelength": 17.0,
+          "direction": [1, -0.5]
+        },
+        {
+          "steepness": 0.1,
+          "wavelength": 15.0,
+          "direction": [0, 1]
+        },
+        {
+          "steepness": 0.12,
+          "wavelength": 20.0,
+          "direction": [-1, 1]
+        }
+      ],
+      "useNormals": true
+    },
+    "fresh breeze": {
+      "windSpeed": 0.55,
+      "waves": [
+        {
+          "steepness": 0.15,
+          "wavelength": 20.0,
+          "direction": [1, -0.5]
+        },
+        {
+          "steepness": 0.12,
+          "wavelength": 18.0,
+          "direction": [0, 1]
+        },
+        {
+          "steepness": 0.15,
+          "wavelength": 25.0,
+          "direction": [-1, 1]
+        }
+      ],
+      "useNormals": true
+    },
+    "strong breeze": {
+      "windSpeed": 0.65,
+      "waves": [
+        {
+          "steepness": 0.15,
+          "wavelength": 22.0,
+          "direction": [1, -0.5]
+        },
+        {
+          "steepness": 0.14,
+          "wavelength": 25.0,
+          "direction": [0, 1]
+        },
+        {
+          "steepness": 0.16,
+          "wavelength": 30.0,
+          "direction": [1, 1]
+        }
+      ],
+      "useNormals": true
+    },
+    "near gale": {
+      "windSpeed": 0.75,
+      "waves": [
+        {
+          "steepness": 0.16,
+          "wavelength": 24.5,
+          "direction": [1, -0.5]
+        },
+        {
+          "steepness": 0.15,
+          "wavelength": 30.0,
+          "direction": [0, 1]
+        },
+        {
+          "steepness": 0.17,
+          "wavelength": 34.5,
+          "direction": [1, 1]
+        }
+      ],
+      "useNormals": true
+    },
+    "gale": {
+      "windSpeed": 0.85,
+      "waves": [
+        {
+          "steepness": 0.17,
+          "wavelength": 28.0,
+          "direction": [1, -0.5]
+        },
+        {
+          "steepness": 0.16,
+          "wavelength": 32.5,
+          "direction": [0, 1]
+        },
+        {
+          "steepness": 0.18,
+          "wavelength": 36.5,
+          "direction": [1, 1]
+        }
+      ],
+      "useNormals": true
+    },
+    "strong gale": {
+      "windSpeed": 0.95,
+      "waves": [
+        {
+          "steepness": 0.19,
+          "wavelength": 29.0,
+          "direction": [1, -0.5]
+        },
+        {
+          "steepness": 0.18,
+          "wavelength": 34.0,
+          "direction": [0, 1]
+        },
+        {
+          "steepness": 0.19,
+          "wavelength": 38.0,
+          "direction": [1, 1]
+        }
+      ],
+      "useNormals": true
+    }
+  },
+  "fogState": 1.0,
+  "cloudCover": 2.0,
+  "rainState": 0.5,
+  "windDirection": [1, -1],
+  "skyState": {
+    "dawn": {
+      "azimuth": 0.25,
+      "inclination": 0.49,
+      "rayleigh": 0.0,
+      "turbidity": 2.0,
+      "mieCoefficient": 0.21,
+      "mieDirectionalG": 0.77,
+      "sunIntensityFactor": 1300
+    },
+    "sunrise": {
+      "azimuth": 0.25,
+      "inclination": 0.51,
+      "rayleigh": 0.6,
+      "turbidity": 1.0,
+      "mieCoefficient": 0.03,
+      "mieDirectionalG": 0.6,
+      "sunIntensityFactor": 1000
+    },
+    "morning": {
+      "azimuth": 0.35,
+      "inclination": 0.56,
+      "rayleigh": 1.2,
+      "turbidity": 0.5,
+      "mieCoefficient": 0.35,
+      "mieDirectionalG": 0.35,
+      "sunIntensityFactor": 900
+    },
+    "noon": {
+      "azimuth": 0.5,
+      "inclination": 0.65,
+      "rayleigh": 2.0,
+      "turbidity": 0.3,
+      "mieCoefficient": 0.01,
+      "mieDirectionalG": 0.9,
+      "sunIntensityFactor": 1300
+    },
+    "afternoon": {
+      "azimuth": 0.65,
+      "inclination": 0.56,
+      "rayleigh": 1.2,
+      "turbidity": 0.5,
+      "mieCoefficient": 0.35,
+      "mieDirectionalG": 0.35,
+      "sunIntensityFactor": 700
+    },
+    "dusk": {
+      "azimuth": 0.75,
+      "inclination": 0.505,
+      "rayleigh": 1.5,
+      "turbidity": 2.0,
+      "mieCoefficient": 0.15,
+      "mieDirectionalG": 0.0,
+      "sunIntensityFactor": 2000
+    },
+    "night": {
+      "azimuth": 0.24,
+      "inclination": 0.56,
+      "rayleigh": 0.0,
+      "turbidity": 0.5,
+      "mieCoefficient": 0.03,
+      "mieDirectionalG": 0.0,
+      "sunIntensityFactor": 1400
+    }
+  },
+  "city": {
+    "Barcelona": {
+      "name": "BCN_2048",
+      "scale": [3, 1.5, 2],
+      "position": [41.38, 0, 2.19]
+    },
+    "Capetown": {
+      "name": "CAPETOWN_2048",
+      "scale": [3, 2, 3],
+      "position": [41.39, 0, 2.15]
+    }
+  }
+}

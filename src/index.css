@@ -1,0 +1,167 @@
+.app-container {
+  display: flex;
+}
+
+.full {
+  position: absolute;
+  height: calc(100% - 55px);
+  width: 100%;
+  flex: 1;
+}
+
+.corner {
+  position: absolute;
+  z-index: 1;
+  flex: 1;
+  bottom: 10px;
+  right: 10px;
+  background-color: black;
+}
+
+.sidebar {
+  background-color: rgba(35, 55, 75, 0.9);
+  color: #fff;
+  padding: 6px 12px;
+  font-family: monospace;
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: 15px;
+  margin-top: 22px;
+  border-radius: 4px;
+}
+
+.card {
+  width: 330px;
+  display: flex;
+  flex-direction: column;
+  justify-content: baseline;
+  padding: 6px 12px;
+  z-index: 2;
+  position: absolute;
+  margin-left: 15px;
+  margin-top: 70px;
+  border-radius: 8px;
+}
+
+.canvas-recorder {
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.menu {
+  height: 55px;
+}
+
+label {
+  color: cadetblue;
+  font-size: 16px;
+  border-bottom: 0.5px solid cadetblue;
+  margin: 3px;
+}
+
+.place {
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+.username {
+  font-size: 14px;
+  margin-left: 3px;
+}
+
+.date {
+  font-size: 12px;
+  margin-left: 3px;
+}
+
+form {
+  width: 260px;
+  height: 120px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.mapboxgl-popup-content {
+  border-radius: 8px;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid gray;
+}
+
+input::placeholder,
+textarea::placeholder {
+  font-size: 14px;
+  color: grey;
+}
+
+.submit-btn {
+  font-size: 14px;
+  border: none;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  background-color: cadetblue;
+  cursor: "pointer";
+}
+
+.me-auto {
+  margin-left: auto;
+}
+
+.btn {
+  margin-right: 10px;
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.login {
+  background-color: cadetblue !important;
+  border-color: cadetblue !important;
+}
+
+.register {
+  color: cadetblue !important;
+  background: none !important;
+  border-color: cadetblue !important;
+}
+
+.logout {
+  background-color: cadetblue !important;
+  border-color: cadetblue !important;
+}
+
+.logbook {
+  background-color: dodgerblue !important;
+  border-color: dodgerblue !important;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  margin-bottom: 5px;
+}
+
+.embedCancel {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
+}
+
+.logo-image {
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  margin-right: 10px;
+  margin-left: -5px;
+}

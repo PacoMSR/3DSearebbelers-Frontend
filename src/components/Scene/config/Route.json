@@ -1,0 +1,102 @@
+[
+  {
+    "longitude": 2.23,
+    "latitude": 41.37,
+    "timestamp": 1674994945403,
+    "weather": {
+      "seaState": "calm",
+      "fogState": 0.2,
+      "cloudCover": 0.7,
+      "rainState": 0.0,
+      "windDirection": [0.7, 0.8],
+      "skyState": "noon",
+      "coastLine": true,
+      "city": "Barcelona",
+      "sunPos": {
+        "inclination": 0.56,
+        "azimuth": 0.25
+      }
+    },
+    "data": null
+  },
+  {
+    "longitude": 2.35,
+    "latitude": 41.33,
+    "timestamp": 1674998568668,
+    "weather": {
+      "seaState": "moderate breeze",
+      "fogState": 0.2,
+      "cloudCover": 1.7,
+      "rainState": 1.0,
+      "windDirection": [0.5, 0.4],
+      "skyState": "afternoon",
+      "coastLine": false,
+      "city": "Barcelona",
+      "sunPos": {
+        "inclination": 0.54,
+        "azimuth": 0.35
+      }
+    },
+    "data": null
+  },
+  {
+    "longitude": 2.46,
+    "latitude": 41.3,
+    "timestamp": 1675009385365,
+    "weather": {
+      "seaState": "fresh breeze",
+      "fogState": 0.7,
+      "cloudCover": 1.0,
+      "rainState": 0.0,
+      "windDirection": [0.5, 0.7],
+      "skyState": "afternoon",
+      "coastLine": false,
+      "city": "Barcelona",
+      "sunPos": {
+        "inclination": 0.52,
+        "azimuth": 0.45
+      }
+    },
+    "data": "barcelona.jpg"
+  },
+  {
+    "longitude": 2.63,
+    "latitude": 41.39,
+    "timestamp": 1675012999043,
+    "weather": {
+      "seaState": "strong breeze",
+      "fogState": 0.2,
+      "cloudCover": 0.2,
+      "rainState": 0.5,
+      "windDirection": [0.3, 0.7],
+      "skyState": "dusk",
+      "coastLine": false,
+      "city": "Barcelona",
+      "sunPos": {
+        "inclination": 0.5,
+        "azimuth": 0.75
+      }
+    },
+    "data": null
+  },
+  {
+    "longitude": 2.77,
+    "latitude": 41.49,
+    "timestamp": 1675016613079,
+    "weather": {
+      "seaState": "moderate breeze",
+      "fogState": 0.2,
+      "cloudCover": 0.7,
+      "rainState": 0.0,
+      "windDirection": [0.5, 0.3],
+      "skyState": "night",
+      "coastLine": true,
+      "city": "Barcelona",
+      "sunPos": {
+        "inclination": 0.51,
+        "azimuth": 0.85
+      }
+    },
+    "data": null
+  }
+]

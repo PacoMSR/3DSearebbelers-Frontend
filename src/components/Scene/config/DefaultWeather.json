@@ -1,0 +1,14 @@
+{
+  "seaState": "gentle breeze",
+  "fogState": 0.2,
+  "cloudCover": 0.7,
+  "rainState": 0.0,
+  "windDirection": [0.5, 0.3],
+  "skyState": "noon",
+  "coastLine": true,
+  "city": "Barcelona",
+  "sunPos": {
+    "inclination": 0.65,
+    "azimuth": 0.5
+  }
+}

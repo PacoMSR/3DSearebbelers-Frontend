@@ -1,0 +1,11 @@
+Model Information:
+* title:	Handheld Compass
+* source:	https://sketchfab.com/3d-models/handheld-compass-b384e34bead84192b101dc029a859000
+* author:	TrentPierce (https://sketchfab.com/TrentPierce)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Handheld Compass" (https://sketchfab.com/3d-models/handheld-compass-b384e34bead84192b101dc029a859000) by TrentPierce (https://sketchfab.com/TrentPierce) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

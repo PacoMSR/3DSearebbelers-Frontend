@@ -1,0 +1,11 @@
+Model Information:
+* title:	Boat
+* source:	https://sketchfab.com/3d-models/boat-bd6166ae8e294bd4a7d4e46be7f80f5d
+* author:	milamila (https://sketchfab.com/milamila)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Boat" (https://sketchfab.com/3d-models/boat-bd6166ae8e294bd4a7d4e46be7f80f5d) by milamila (https://sketchfab.com/milamila) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

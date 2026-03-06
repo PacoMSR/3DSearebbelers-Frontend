@@ -1,6 +1,6 @@
-# SeaRebbel
+# Searebbel
 
-This project integrates Mapbox and Three.js in a React context in order to create a visual demo for the SeaRebbel project.
+This project integrates Mapbox and Three.js in a React context in order to create a visual demo for the Searebbel project.
 
 You can have a look at the result in the following [link](https://webglstudio.org/users/cdelcorral/searebbel/). The demo is finished, you can navigate through the map and double click on it to add pins, and click on one buoy to view its content. On top there is a navigation bar and by the side of the map you can find the 3D scene.
 
